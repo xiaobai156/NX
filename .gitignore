@@ -1,0 +1,7 @@
+outputs/dist/
+outputs/build/
+outputs/verification*/
+outputs/work/
+*.zip
+*.pyc
+__pycache__/
