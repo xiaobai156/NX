@@ -1,7 +1,8 @@
-outputs/dist/
-outputs/build/
-outputs/verification*/
-outputs/work/
+# Build and runtime artifacts
+dist/
+build/
+verification/
+verification-*/
 *.zip
 *.pyc
 __pycache__/
