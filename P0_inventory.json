@@ -118,5 +118,7 @@
     "新澳六合彩资料_251期.txt",
     "缺失及未分流汇总.txt"
   ],
-  "truth_observation": "已读取两份251期TXT样例：包含头、尾、一肖等类别；已分流需去标记保留记录；缺失记录跳过。"
+  "truth_observation": "已读取两份251期TXT样例：包含头、尾、一肖等类别；已分流需去标记保留记录；缺失记录跳过。",
+  "truth_root": "C:\\Users\\Administrator\\Desktop\\每天工具\\N卡本地识别\\发布\\重要结果\\群结果",
+  "truth_binding_confirmed": true
 }
