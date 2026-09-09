@@ -121,5 +121,17 @@
   ],
   "truth_observation": "已读取两份251期TXT样例：包含头、尾、一肖等类别；已分流需去标记保留记录；缺失记录跳过。",
   "truth_root": "C:\\Users\\Administrator\\Desktop\\每天工具\\N卡本地识别\\发布\\重要结果\\群结果",
-  "truth_binding_confirmed": true
+  "truth_binding_confirmed": true,
+  "observed_categories": [
+    "头",
+    "尾",
+    "一肖",
+    "二肖",
+    "五行",
+    "5个数字",
+    "5个以上数字",
+    "30个以上数字",
+    "段"
+  ],
+  "formal_project": "C:\\Users\\Administrator\\Desktop\\每天工具\\N卡本地识别\\OcrLineTool.App\\OcrLineTool.App.csproj"
 }
