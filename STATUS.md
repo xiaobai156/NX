@@ -21,3 +21,11 @@ P0 只有全部待确认项完成并生成接口契约后，才能标记为完�
 
 - ✅ P0 逐类 TXT 语法核实与正式版接口契约已完成（见 integration_contract.md）
 
+
+## P1：GPU 环境与最小前向/反向
+
+- ✅ 本机 GPU、驱动、Python、Paddle CUDA 已核实
+- ✅ 最小 GPU forward/loss/backward 通过
+- ⏳ OCR 模型及图像 CUDA 管线未验证
+- ⏳ P1 未全部完成
+
