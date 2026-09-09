@@ -111,7 +111,8 @@
     "已分流: remove marker only, retain record",
     "TXT category grammar and integration contract require targeted source review",
     "P0 not complete",
-    "答案目录已由用户确认"
+    "答案目录已由用户确认",
+    "正式版为 .NET WinForms OcrLineTool.App，OCR入口候选为 PaddleLocalOcrClient.cs、OcrClients.cs，需进一步读取调用链"
   ],
   "truth_files": [
     "嫣然心水_251期.txt",
